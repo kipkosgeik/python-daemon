@@ -1,0 +1,6 @@
+*.py~
+*~
+*.bkp
+*.pyc
+.*.swp
+log/
